@@ -1,0 +1,15 @@
+{
+  "name": "render-test-app",
+  "version": "1.0.0",
+  "description": "Simple Express app for testing Render deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "render", "test"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
